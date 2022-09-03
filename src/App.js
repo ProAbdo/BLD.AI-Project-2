@@ -1,5 +1,6 @@
 import React from "react";
 import { courses_header, courses_data } from "./Data/db";
+import "./styles/App.css";
 import Card from "./Components/Card";
 import Courses_container from "./Components/Courses_container";
 const App = () => {
